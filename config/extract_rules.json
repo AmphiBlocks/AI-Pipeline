@@ -1,0 +1,15 @@
+{
+  "fields": [
+    "LuaScript",
+    "XmlUI",
+    "LuaScriptState"
+  ],
+  "field_extensions": {
+    "LuaScript": ".lua",
+    "XmlUI": ".xml",
+    "LuaScriptState": ".json"
+  },
+  "include_global": true,
+  "include_objects": true,
+  "extract_empty_fields": false
+}

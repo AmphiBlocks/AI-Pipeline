@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated per-save artifacts
+workspaces/
+
+# Local logs/reports
+pipeline_gaps.md
